@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: d6048838f69af3b43b511b467d102567
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back Plug
+    100002: Ball
+    100004: Battery Coil
+    100006: Bolt Front 1
+    100008: Bolt Front 2
+    100010: Bolt Front 3
+    100012: Bolt Front 4
+    100014: Camera
+    100016: Coil Back
+    100018: Coil Front
+    100020: Cylinder
+    100022: Front Zapper
+    100024: Inside Coils Large
+    100026: Inside Coils Small
+    100028: Lamp
+    100030: //RootNode
+    100032: Ring Large
+    100034: Ring Medium
+    100036: Ring Small
+    100038: Sphere
+    400000: Back Plug
+    400002: Ball
+    400004: Battery Coil
+    400006: Bolt Front 1
+    400008: Bolt Front 2
+    400010: Bolt Front 3
+    400012: Bolt Front 4
+    400014: Camera
+    400016: Coil Back
+    400018: Coil Front
+    400020: Cylinder
+    400022: Front Zapper
+    400024: Inside Coils Large
+    400026: Inside Coils Small
+    400028: Lamp
+    400030: //RootNode
+    400032: Ring Large
+    400034: Ring Medium
+    400036: Ring Small
+    400038: Sphere
+    2000000: Camera
+    2100000: Material
+    2100002: Material.002
+    2100004: Material.009
+    2100006: Material.004
+    2100008: No Name
+    2100010: Material.007
+    2100012: Material.005
+    2100014: Material.006
+    2300000: Back Plug
+    2300002: Ball
+    2300004: Battery Coil
+    2300006: Bolt Front 1
+    2300008: Bolt Front 2
+    2300010: Bolt Front 3
+    2300012: Bolt Front 4
+    2300014: Coil Back
+    2300016: Coil Front
+    2300018: Cylinder
+    2300020: Front Zapper
+    2300022: Inside Coils Large
+    2300024: Inside Coils Small
+    2300026: Ring Large
+    2300028: Ring Medium
+    2300030: Ring Small
+    2300032: Sphere
+    3300000: Back Plug
+    3300002: Ball
+    3300004: Battery Coil
+    3300006: Bolt Front 1
+    3300008: Bolt Front 2
+    3300010: Bolt Front 3
+    3300012: Bolt Front 4
+    3300014: Coil Back
+    3300016: Coil Front
+    3300018: Cylinder
+    3300020: Front Zapper
+    3300022: Inside Coils Large
+    3300024: Inside Coils Small
+    3300026: Ring Large
+    3300028: Ring Medium
+    3300030: Ring Small
+    3300032: Sphere
+    4300000: Battery Coil
+    4300002: Front Zapper
+    4300004: Ring Large
+    4300006: Cylinder
+    4300008: Sphere
+    4300010: Ring Medium
+    4300012: Ring Small
+    4300014: Coil Front
+    4300016: Bolt Front 1
+    4300018: Bolt Front 2
+    4300020: Bolt Front 3
+    4300022: Bolt Front 4
+    4300024: Coil Back
+    4300026: Back Plug
+    4300028: Ball
+    4300030: Inside Coils Large
+    4300032: Inside Coils Small
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
